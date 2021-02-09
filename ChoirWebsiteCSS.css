@@ -18,6 +18,14 @@ h1, .subtitle {
     color: white;
 }
 
+#border1, #border2 {
+    /*background-size: cover;*/
+    /*background-attachment: fixed;*/
+    align-items: center;
+}
+
+
+
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) { ... }
 
