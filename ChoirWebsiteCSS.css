@@ -9,7 +9,8 @@ body {
 }
 
 .header {
-    background-color: #af3628;
+    /*background-color: #af3628;*/
+    background-color: #b40000;
     padding: 30px 20px;
     text-align: center;
 }
@@ -18,11 +19,25 @@ h1, .subtitle {
     color: white;
 }
 
-#border1, #border2 {
-    /*background-size: cover;*/
-    /*background-attachment: fixed;*/
-    align-items: center;
+.row {
+    justify-content: center;
+    
 }
+
+#border1 {
+    background-image: url(border1small.png);
+}
+
+#border2 {
+    background-image: url(border2small.png);
+}
+
+.image {
+    background-repeat: repeat-y;
+    background-position: top center;
+    background-size: 75%;
+}
+
 
 
 
