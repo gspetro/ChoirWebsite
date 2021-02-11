@@ -1,5 +1,5 @@
 body {
-    background-color: #f2f2f2;
+    background-color: #f2f2f2; /* #e5e5e5*/
     font-family: "Yusei Magic", sans-serif;
 }
 
@@ -9,7 +9,6 @@ body {
 }
 
 .header {
-    /*background-color: #af3628;*/
     background-color: #b40000;
     padding: 30px 20px;
     text-align: center;
